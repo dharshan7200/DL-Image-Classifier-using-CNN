@@ -213,4 +213,4 @@ predict_image(model, image_index=80, dataset=test_dataset)
 <img width="481" height="470" alt="image" src="https://github.com/user-attachments/assets/90ce9e58-1d88-4340-bc60-0b6f016450c8" />
 
 ## RESULT
-Include your result here
+Developing a convolutional neural network (CNN) classification model for the given dataset was executed successfully.
